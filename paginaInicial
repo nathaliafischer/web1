@@ -9,7 +9,10 @@
 
 <h3> Cabeçalho.</h3>
 <p> Parágrafo. </p>
-<a href = "http://www.google.com.br"> Dá um google </a>
+<b> <i> Parágrafo especial. </b> </i> <!--comentário aqui-->
+<br><br>
+<a href = "http://www.google.com.br"> Dá um google </a> 
 
+<p>Hoje fez 32<sup>o</sup>. E por isso a concentração de <strong> CO<sub>2</sub></strong> aumentou. </p>
 </body>
 </html>
