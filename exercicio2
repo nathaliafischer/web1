@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> 
+  <meta charset="utf8" />
+	  <title>CV Nathalia</title>
+</head>
+<body>
+  <h3> Menu</h3>
+  <hr>
+  <h3> Dados Pessoais</h3>
+	<i>Nome: Nathalia Fischer </i>
+	<i><a href = "mailto:nathyh.fischer@gmail.com"> nathyh.fischer@gmail.com </i> </a> 
+  <br>
+  <i>Github: <a href =https://github.com/nathaliafischer/web1>GitHub</i> </a>
+  <br>
+  <b> <i> Parágrafo especial. </b>  </i> <!--comentário aqui-->
+  <br><br>
+  <a href = "http://www.google.com.br"> Dá um google </a> 
+
+</body>
+</html>
