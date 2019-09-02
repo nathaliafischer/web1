@@ -1,18 +1,40 @@
 <!DOCTYPE>
 <html lang="pt-br">
 <head>
+<style type = "text/css">
+p.estiloDeParagrafo{font-size:5vw;color:orange}
+</style>
 <meta charset ="utf-8"/>
 <title> Página Nath </title>
 </head>
 
 <body>
+    <h3> Cabeçalho.</h3>
+    <p> Parágrafo. </p>
+    <b> <i> Parágrafo especial. </b> </i> <!--comentário aqui-->
+    <br><br>
+    <a href="http://www.google.com.br"> Dá um google </a>
 
-<h3> Cabeçalho.</h3>
-<p> Parágrafo. </p>
-<b> <i> Parágrafo especial. </b> </i> <!--comentário aqui-->
-<br><br>
-<a href = "http://www.google.com.br"> Dá um google </a> 
-
-<p>Hoje fez 32<sup>o</sup>. E por isso a concentração de <strong> CO<sub>2</sub></strong> aumentou. </p>
+    <p class="estiloDeParagrafo">Hoje fez 32<sup>o</sup>. E por isso a concentração de <strong> CO<sub>2</sub></strong> aumentou. </p>
+   
+    <!--Aula do dia 02 de setembro-->
+    <h2>Lista não-ordenada:</h2>
+    <ul>
+        <li> item 1
+            <ol>
+                <li>item 1.1</li>
+            </ol>
+        </li>
+    </ul>
+    <br>
+    
+    <h1> Lista ordenada:</h1>
+    <ol>
+        <li> item 2</li>
+    </ol>
+        <dl>
+            <dt>Batata</dt>
+            <dd> é algo muito bom.</dd>
+        </dl>
 </body>
 </html>
