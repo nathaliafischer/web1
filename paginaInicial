@@ -36,5 +36,16 @@ p.estiloDeParagrafo{font-size:5vw;color:orange}
             <dt>Batata</dt>
             <dd> é algo muito bom.</dd>
         </dl>
+
+        <table>
+            Tabela 1
+            <th>
+                coluna 1
+            </th>
+                <tl>
+                    <td>valor 1</td>
+                    <td>valor 2</td>
+                </tl>
+        </table>
 </body>
 </html>
